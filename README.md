@@ -28,3 +28,10 @@ git push origin master
 *오늘은 JavaScript 개발환경을 구축했다.
 * Node.js, Git, Sublime Test3 를 설치했다.
 * Git 을 사용하는데 너무 어렵다. 복잡하다.
+
+### Day 2
+
+### Day 3
+*오늘은 Javascript 함수를 복습했다.
+*콜백함수를 실습했다.
+*'Git' 의 간단한 명렁어에 대해서 학습했다.
